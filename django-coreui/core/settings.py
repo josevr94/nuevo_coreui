@@ -59,6 +59,12 @@ INSTALLED_APPS = [
     'producto',
     'cliente',
     'proveedor',
+    'almacen',
+    'inventario',
+    'caja',
+    'tipo_pago',
+    'vendedor',
+    'ventas',
 ]
 
 MIDDLEWARE = [
